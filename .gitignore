@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+personalconfig.*
+.vscode/
+.pioenvs/d1_mini/
