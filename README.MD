@@ -9,7 +9,7 @@ Source files for ProjectIO.
 - [x] Support OLED screens based on the SSD1306 controller. Also supported other controllers via [U8G2](https://github.com/olikraus/U8g2_Arduino) library.
 - [x] DS1307 failures description on the screen: wrong connection or not set time.
 
-## WiFi and web page settings.
+## WiFi and web page settings
 
 - [x] Connect to the WiFi network.
 - [x] WiFi status icon on the top line.
